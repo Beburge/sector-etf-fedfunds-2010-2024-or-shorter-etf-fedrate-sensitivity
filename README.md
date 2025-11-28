@@ -1,6 +1,6 @@
-# sector-etf-fedfunds-2010-2024-or-shorter-etf-fedrate-sensitivity
-Time-series analysis of sector ETF returns (XLK, XLF, XLU) vs the Federal Funds Rate, 2010–2024. Includes data cleaning, ADF, cointegration, Granger causality, and regression.
 # Sector ETF Interest Rate Sensitivity (2010–2024)
+
+Time-series analysis of sector ETF returns (XLK, XLF, XLU) vs the Federal Funds Rate, 2010–2024. Includes data cleaning, ADF, cointegration, Granger causality, and regression.
 
 This repository contains the data and code for my honors research project on how
 sector ETF returns respond to changes in the Federal Funds Rate.
@@ -37,7 +37,7 @@ Funds Rate from FRED.
   **–5.6% change in XLK’s daily return**, but the model explains **<1% of daily
   variance**, so rates are a real but weak driver of day-to-day moves.
 
-Full write-up: see [`docs/Research_Note_ETF_FedFunds_2010_2024.pdf`](docs/Research_Note_ETF_FedFunds_2010_2024.pdf).
+Full write-up: see [`https://docs.google.com/document/d/1gvRzVWBOo7DKLax2KLKV-pBriZbfli-6_2SRHs5z_rE/edit?usp=sharing`](docs/Research_Note_ETF_FedFunds_2010_2024.pdf).
 
 ## Repo structure
 
